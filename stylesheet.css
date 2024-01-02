@@ -1,0 +1,19 @@
+#container {
+    margin: 200px auto 0px auto;
+    background-color: aquamarine;
+    max-width: 500px;
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+}
+
+.divPix {
+    width: 30px;
+    height: 30px;
+    
+}
+
+.divPix2 {
+    background-color: black;
+}
